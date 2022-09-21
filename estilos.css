@@ -1,7 +1,7 @@
 body
 {
     background-position-x: center;
- background-image:url("../declaracion/images/2778089-scaled-1.jpg");
+ background-image:url(images/2778089-scaled-1.jpg);
 height: 250px ;
 width: 200px ;
 }
@@ -26,7 +26,13 @@ p{
     font-size: 70px;
     padding-top: 2%;
 }
-
+p1{
+    text-align: center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    padding-top: 0%;
+}
 button{
     color: aliceblue;
     background-color: brown;
